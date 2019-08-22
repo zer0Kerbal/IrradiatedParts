@@ -1,5 +1,5 @@
-# Dr. Kermnassus' Parts Emporium Expanded
-#### Formerly known as Dr. Kermnassus' Parts Emporium
+# Hot Beverage Reheated
+#### Formerly known as Hot Beverage
 ![TransparentPodsRepressurized](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
 ![TransparentPodsRepressurized](https://img.shields.io/badge/MOD%20version-0.0.0.1-orange.svg?style=flat-square)
 
