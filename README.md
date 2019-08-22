@@ -1,14 +1,14 @@
-# Hot Beverage Reheated
-#### Formerly known as Hot Beverage
+# Hot Beverage - Scalding Hot Parts Reheated
+#### Formerly known as Hot Beverage Inc - Scalding Hot Parts
 ![TransparentPodsRepressurized](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
 ![TransparentPodsRepressurized](https://img.shields.io/badge/MOD%20version-0.0.0.1-orange.svg?style=flat-square)
 
-Continuation of random part by (first by nli2work), now continued by *zer0Kerbal* with community support.
+Continuation of random part by (first by *@Ph34rb0t*), now continued by *zer0Kerbal* with community support.
 
-## Transparent Command Pod by nil2work v1.2.3 for KSP v1.7.x
+## Hot Beverage - Scalding Hot Parts Reheated by Ph34rb0t v.1.0.0.1 for KSP v1.7.x
 ### Adds eight (8) parts to Kerbal Space Program
 
-![Transparent Pods Repressurized](https://youtu.be/CB3N8tRPcRA "Transparent Pods Repressurized") 
+![Transparent Pods Repressurized](https://youtu.be/CB3N8tRPcRA) 
 
 *See ChangeLog.txt for details of mod changes* 
 
@@ -18,11 +18,11 @@ Extract to your KSP folder.
  * Kerbal Space Program
  
 ### Recommends: 
-#### *Orbital Tug experience benefits from having these installed* 
+#### *You scalding hot beverage experience benefits from having these installed* 
  * ![ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-module-manager-2618-january-17th-with-even-more-sha-and-less-bug/) 
  * JSI RPM 0.1.20.0 Required; be sure to use latest compatible DLLs provided by MOARdV++
- * ![RasterPropMonitor](https://forum.kerbalspaceprogram.com/index.php?/topic/105821-16x-rasterpropmonitor-development-stopped-v0306-29-december-2018/)
- * ![MOARdV's Avionics System](https://forum.kerbalspaceprogram.com/index.php?/topic/160856-wip-17x-moardvs-avionics-systems-mas-interactive-iva-v101-27-july-2019/)
+ * ![On Demand Fuel Cells]()
+ * ![B9 Part Switch]("http://forum.kerbalspaceprogram.com/index.php?showtopic=140541")
  * ![JSI Advanced Transparent Pods](https://forum.kerbalspaceprogram.com/index.php?/topic/138433-17x-jsi-advanced-transparent-pods-/) 
 
 ### Suggests: 
@@ -32,7 +32,7 @@ Extract to your KSP folder.
  * ![Kerbal Inventory System (KIS)]() 
  * ![InfernalRobotics-Next]() 
  * ![Kerbal Joint Reinforcement-Next (KJR)]() 
- * ![B9 Part Switch]("http://forum.kerbalspaceprogram.com/index.php?showtopic=140541") 
+ * ![]() 
  * ![Kerbal Change Log]() 
 
 ## License
@@ -50,8 +50,9 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 + 0.625m **Mono** Pressurized Command Chair
 + ~0.2m Micro Lander Leg; radial and ventral mount configurations
 + ~0.3m **Micro Klaw** Micro Advanced Grabber Unit.
-+ Handrail
-+ Handrail, short
++ Fuel Cell Module, stack in .625, 1.25, 1.875, 2.5, 3.75, and 5m sizes
++ 2.5m Service Moduel with engine, fuel, battery, extending antenna.
++ everything you should need to build your own Kerturn rocket!
 
 #### Known issues:
  An ongoing thread for random parts nli2work made for the fun of it. All will work with vanilla KSP. With the magic of ModuleManager some parts will behave differently depending on the mods you are running, or you may get extra parts that work only if certain mods are installed. There're no interdependencies... so you can remove the parts you don't want by deleting the part's folder.
