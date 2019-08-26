@@ -3,6 +3,8 @@
 ![TransparentPodsRepressurized](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
 ![TransparentPodsRepressurized](https://img.shields.io/badge/MOD%20version-0.0.0.1-orange.svg?style=flat-square)
 
+(https://www.curseforge.com/kerbal/ksp-mods/hot-beverage-inc-parts-pack)
+
 Continuation of random part by (first by *@Ph34rb0t*), now continued by *zer0Kerbal* with community support.
 
 ## Hot Beverage - Scalding Hot Parts Reheated by Ph34rb0t v.1.0.0.1 for KSP v1.7.x
@@ -61,61 +63,28 @@ nli2work will simply add parts as his fancy strikes him.
 
 Install instructions: download the part you want; place in GameData/DrKermnassusPartsEmporium
 
-Original Download: https://www.dropbox.com/sh/bso7vfiztoqvczy/AAA57HlmaGA2WjVC157R-oYFa
+Original Download: (https://www.curseforge.com/kerbal/ksp-mods/hot-beverage-inc-parts-pack)
 
-![](https://raw.githubusercontent.com/zer0Kerbal/DrKermnassusPartsEmporium/master/images/ev6sWEu.jpg)
+![Fuel Cell Modules]()
 
-## Ikerus Mk1 (Left): 
-Single part solar heat shield in 3.75m diameter housing, deploys to ~38 meters in diameter. Deploys once only. Generates small amount of EC through thermoelectric effect. Kerbal for scale.
-
-## Ikerus Mk2 (Mid/Right): 
-multi-part solar heat shield for KAS/KIS assembly in orbit. Central hub is 5m diameter and is applicable for variety of situations that require high temperature tolerance so long as active cooling is available. Most effective against radiative heating. Total of 12 panel sections to be attached around the center hub piece, can be built to any size between ~11m (17 pieces total) to 100m (449 pieces total) in diameter in roughly 10m increments. Every 4th ring section have additional structures for strut attachments.
-
-
-![](https://raw.githubusercontent.com/zer0Kerbal/DrKermnassusPartsEmporium/master/images/CAHG12E.jpg)
-
-## Dr. Kermnassus's Rectlinear Wonder Adaptor! 
-Lowers your rover's COM; provides plenty of attachment surfaces and extra clearance for wheels; and helps you convert that unused rocket fuel to electric charge! Works equally well for 1.25m and Mk2!
-
-![](https://raw.githubusercontent.com/zer0Kerbal/DrKermnassusPartsEmporium/master/images/0eSKVuI.jpg
-
-## Kaptain Kerbin! Rigidity Enhancer© : 
+## Stack Fuel Cells
 Limp rocket's got you down? Want to light up that special heavy lifter in your life? Use Kaptain Kerbin! Rigidity Enhancer©! Half the weight and twice as strong as boring old standard struts. Specially engineered to gently curve around your vessel to accentuate it's lines. Proudly manufactured on Kerbin. And for a limited time, Vessel Surface Self-Illuminator included at no extra charge! Never fear the night side of any planet again!
 
 
-![](https://raw.githubusercontent.com/zer0Kerbal/DrKermnassusPartsEmporium/master/images/kHaLLBT.jpg)
+![Stack Sensor Modules]()
 
-## Gravioli Core 
+## Stack Sensor Modules 
 a wondrous piece of machinery that does amazing things. Most importantly, help you in the never ending quest to find the elusive Positive Gravioli Particle!
 
-## Cybernetic Rover
-affectionately dubbed "Kerover" by the engineers. Carries up to 4 Kerbals using external command seat for that romantic safari trip; or a variety of scientific instruments when you are in the mood for some exploration. Comes with carrying harness and fresh Brain. Legs optional.
+![Supply Module]()
 
-![](https://raw.githubusercontent.com/zer0Kerbal/DrKermnassusPartsEmporium/master/images/A6d2bwr.jpg)
-
-### Shielded Docking Port 
-Specially designed shielded dockingport that is 39% more aerodynamic than the standard version. Handcrafted with passion and lovingly polished with all natural baby seal oil for extra speed when travelling through the atmosphere. Use caution when operating shield panels, may cause spontaneous dis-assembly of craft without adequate clearance. Texture by Squad.
-
-### Kerbal Washer 
+### 2.5m Supply Module 
 Keep your Kerbals clean and smelling fresh with Kerbal Washer 3000! Large loading door, massive 8 Kerbal capacity, customizable light color, Heavy/Standard/Gentle wash cycles with automatic shutoff and water conserving modes. Also functions as Airlock and Docking port.
 
-![](https://raw.githubusercontent.com/zer0Kerbal/DrKermnassusPartsEmporium/master/images/y6yzqEU.jpg)
+![Kerturn Rocket Parts]()
 
-## Kraken Parachutes. (top left). 
-Radial and Stack versions. Cleverly disguised like normal parachutes until deployed.
-
-## "Big Bubba" trailer hitch (left), 
-simple structural unit with integrated RCS ports and Mono tank (default empty). End plates are 5m. S3-14400 Tank for scale. 
-
-## Multi Spectral Scanner Probe core (top mid). 
-1.25m. Vanilla behavior is Survey/GPS Scanner. With Asteroid Day it becomes an IR Telescope for spotting Asteroids. With SCANSat it becomes Radar Altimetry/MultiSpectral Scanner. SCANSat overrides Asteroid Day if you have both installed. Data Transmitter and low output RTG included in all variants.
-
-## Kerb a'Lamp (lower mid)
-Edison Kerman, the Wise, will light your way in the dark, and illuminate your vessel in soft green glow.
-
-## Kraken Seeker (right) 
-A trained Kraken to sniff out valuable ore on any surface, planet or asteroid. Surface/Asteroid/GPS scanner. with KIS you get a freebie Kraken Space Helmet (lower right)... blue and pink versions.
-
+## Kerturn rocket. 
+Radial and Stack versions. Cleverly disguised like normal parachutes until deployed
 CC-BY-SA-NC-4.0
 
 
