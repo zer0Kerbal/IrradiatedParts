@@ -1,4 +1,4 @@
-//------------------------------------- 0.3125 m -------------------------------------------------------------
+// ***************** 0.3125 m *****************
 PART
 {
 	// Hot Beverage Inc. - Fuel Cell Module
@@ -16,9 +16,9 @@ PART
 	//mesh = model.mu
 	MODEL
 	{
-		model = Squad/Parts/FuelTank/miniFuselage/Fuselage.mu
-		texture = model000 , HotBeverages/Parts/FuelCellModule/model000.dds
-		texture = model000_NRM , HotBeverages/Parts/FuelCellModule/model000_NRM.dds
+		model = Squad/Parts/FuelTank/miniFuselage/Fuselage
+		//texture = model000 , HotBeverages/Parts/FuelCellModule/model000.dds
+		//texture = model000_NRM , HotBeverages/Parts/FuelCellModule/model000_NRM.dds
 		// texture = model000_NRM , HotBeverages/Parts/FuelCellModule/model000_NRM
 		scale = 1.0, 1.0, 1.0
 	}
