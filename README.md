@@ -1,4 +1,4 @@
-# Hot Beverage - Scalding Hot Parts Reheated
+# Hot Beverages - Scalding Hot Parts Irradiated
 #### Formerly known as Hot Beverage Inc - Scalding Hot Parts
 ![TransparentPodsRepressurized](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
 ![TransparentPodsRepressurized](https://img.shields.io/badge/MOD%20version-0.0.0.1-orange.svg?style=flat-square)
@@ -7,7 +7,7 @@
 
 Continuation of random part by (first by *@Ph34rb0t*), now continued by *zer0Kerbal* with community support.
 
-## Hot Beverage - Scalding Hot Parts Reheated by Ph34rb0t v.1.0.0.1 for KSP v1.7.x
+## Hot Beverages - Scalding Hot Parts Reheated by Ph34rb0t v.1.0.0.1 for KSP v1.7.x
 ### Adds eight (8) parts to Kerbal Space Program
 
 ![Transparent Pods Repressurized](https://youtu.be/CB3N8tRPcRA) 
