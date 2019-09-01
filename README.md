@@ -7,9 +7,9 @@
 # This Readme is [WIP[ Work In Progress
 ![cup](https://raw.githubusercontent.com/zer0Kerbal/HotBeveragesReheated/master/imgs/cup.jpg)
 
-Continuation of parts by DaMichel, now continued by *zer0Kerbal* with community support.
+Continuation of parts by Ph34rb0t, now continued by *zer0Kerbal* with community support.
 
-## Hot Beverages Irradiated by DaMichel v1.0.0.1 for KSP v0.2.5
+## Hot Beverages Irradiated by Ph34rb0t  v1.0.0.1 for KSP v0.2.5
 ### Adds x (#) parts to Kerbal Space Program
 
 *See ChangeLog.txt for details of mod changes* 
