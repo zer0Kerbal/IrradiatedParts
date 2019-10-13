@@ -7,7 +7,7 @@ PART
 
 	// --- general parameters ---
 
-	name = HB_Fuel_Cell_mk0
+	name = HBFuelCellmk0
 	module = Part
 	author = ph34rb0t,zer0Kerbal
 
