@@ -5,7 +5,7 @@
 
 (https://www.curseforge.com/kerbal/ksp-mods/hot-beverage-inc-parts-pack)
 
-# This Readme is [WIP[ Work In Progress
+# This Readme is [WIP] Work In Progress
 ![cup](https://raw.githubusercontent.com/zer0Kerbal/HotBeveragesReheated/master/imgs/cup.jpg)
 
 Continuation of random part by (first by *@Ph34rb0t*), now continued by *zer0Kerbal* with community support.
