@@ -43,10 +43,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ![Hero Image][IMG:hero:0]
 
-### Youtube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
-
-[![Kottabos reviews Dreamer](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://www.youtube.com/watch?v=Oj1etoybd7E)
-
 ### Help Wanted
 
 > * Compatibility patches
