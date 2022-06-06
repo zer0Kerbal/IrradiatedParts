@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.8.2
-MOD-NAME (ABBV)
+Hot Beverage Inc - Irradiated Parts (HBI/IP)
 created: 17 Jul 2017
 updated: 03 Jun 2022 -->
 
@@ -11,9 +11,9 @@ updated: 03 Jun 2022 -->
 
 
 
-# MOD-NAME (ABBV)
+# Hot Beverage Inc - Irradiated Parts (HBI/IP)
 
-*blurb*
+Hot Beverage Inc - Scalding Hot Parts! Now with more irradiation! For Kerbal Space Program.
 
 
 
