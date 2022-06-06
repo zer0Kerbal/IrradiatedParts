@@ -54,6 +54,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
     + [HotBeverageInc]
       + [IrradiatedParts]
         + [Compatibility]
+        + [Config]
         + [Localization]
           ...
           ...
